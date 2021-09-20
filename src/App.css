@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+.country-style{
+  background-color: coral;
+  border: 1px solid black;
+  
+}
+
